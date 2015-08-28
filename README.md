@@ -6,7 +6,7 @@ The specification can be found at http://standards.freedesktop.org/basedir-spec/
 
 ## Examples
 
-```
+```clj
 (require '[xdg-basedir.dirs :as dirs])
 
 dirs/xdg-data-home
