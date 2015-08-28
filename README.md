@@ -4,6 +4,10 @@ This library provides variables for paths in the XDG Base Directory Specificatio
 
 The specification can be found at http://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html
 
+## Leiningen
+
+[![Clojars Project](http://clojars.org/xdg-basedir/latest-version.svg)](http://clojars.org/xdg-basedir)
+
 ## Examples
 
 ```clj
