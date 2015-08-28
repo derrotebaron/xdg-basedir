@@ -1,4 +1,4 @@
-# xdg-basedir
+# xdg-basedir [![Build Status](https://travis-ci.org/derrotebaron/xdg-basedir.svg?branch=master)](https://travis-ci.org/derrotebaron/xdg-basedir)
 
 This library provides variables for paths in the XDG Base Directory Specification.
 
